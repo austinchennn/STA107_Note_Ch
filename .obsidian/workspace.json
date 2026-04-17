@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "fb3a4beb0169f68d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94861b135796a45",
+        "type": "tabs",
+        "dimension": 66.10169491525424,
+        "children": [
+          {
+            "id": "56167afe0b940a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          },
+          {
+            "id": "21f16c8ee3a73662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "2e17f5231dc412db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Batch Norm, Layer Norm, Group Norm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batch Norm, Layer Norm, Group Norm"
+            }
+          },
+          {
+            "id": "d8df260263b3a7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/几何分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "几何分布"
+            }
+          },
+          {
+            "id": "257f82b11cde00f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/Poisson 分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poisson 分布"
+            }
+          },
+          {
+            "id": "5005a9157e3f3b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/Poisson 分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poisson 分布"
+            }
+          },
+          {
+            "id": "4cd1215a42f44710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/负二项分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "负二项分布"
+            }
+          },
+          {
+            "id": "02f2e48bd72c1fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/几何分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "几何分布"
+            }
+          },
+          {
+            "id": "093e27796aec1f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分布/超几何分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "超几何分布"
+            }
+          },
+          {
+            "id": "56cdc1f6e6a874cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "85d872788773a55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "c56632abfae3bce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字特征/期望与方差的计算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "期望与方差的计算"
+            }
+          },
+          {
+            "id": "5dd274f81624bcb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ],
+        "currentTab": 12
+      },
+      {
+        "id": "b9958b3ef5e49182",
+        "type": "tabs",
+        "dimension": 33.89830508474576,
+        "children": [
+          {
+            "id": "45a0f3e1bedeac8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Batch Norm, Layer Norm, Group Norm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batch Norm, Layer Norm, Group Norm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "494ee1fd35eed40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "194c6a089831cf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3267be119ed5f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f51d758e0e7b59d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"数字特征/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9501477824dcfc89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f31cfa488843fe02",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7adc16f0dca5370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694314091efc8200",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Batch Norm, Layer Norm, Group Norm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Batch Norm, Layer Norm, Group Norm 的反向链接列表"
+            }
+          },
+          {
+            "id": "b3cace48fac37556",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Batch Norm, Layer Norm, Group Norm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Batch Norm, Layer Norm, Group Norm 的出链列表"
+            }
+          },
+          {
+            "id": "632d8319aa9e92c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23550cbde3b41270",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "115b7d8dfdee7c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Batch Norm, Layer Norm, Group Norm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Batch Norm, Layer Norm, Group Norm 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "fd3267be119ed5f0",
+  "lastOpenFiles": [
+    "数字特征/期望与方差的计算.md",
+    "欢迎.md",
+    "概率",
+    "数字特征/中位数和IQR.md",
+    "未命名 2.md",
+    "数字特征/未命名",
+    "未命名 1.md",
+    "未命名.md",
+    "数字特征",
+    "分布/超几何分布.md",
+    "分布/几何分布.md",
+    "分布/正态分布.md",
+    "分布/负二项分布.md",
+    "分布/Poisson 分布.md",
+    "分布/二项分布.md",
+    "数据缩放与变换.md",
+    "分布",
+    "Batch Norm, Layer Norm, Group Norm.md",
+    "深度学习",
+    "统计学习/未命名",
+    "统计学习"
+  ]
+}
